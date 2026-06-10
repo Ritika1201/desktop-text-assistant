@@ -74,7 +74,7 @@ google data science roadmap
 Used AI as a development tool, but designed, modified, tested, and improved the project myself.
 
 ## Preview
-
+![Main Interface](screenshot.png)
 ![Desktop Assistant](assets/assistant_image.png)
 ## Note
 
