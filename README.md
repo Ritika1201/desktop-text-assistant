@@ -75,7 +75,7 @@ Used AI as a development tool, but designed, modified, tested, and improved the 
 
 ## Preview
 
-![Desktop Assistant](assets/assistant_image.png)
+![Desktop Assistant](assests/assistant_image.png)
 ## Note
 
 Some application paths are configured for Windows and may need to be updated depending on the software installation location on your system.
