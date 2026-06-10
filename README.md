@@ -2,6 +2,19 @@
 
 A lightweight Python desktop assistant that allows users to quickly launch applications, open websites, and perform searches using a simple popup interface.
 
+## Current Features
+- Chat interface
+- Command execution
+- Basic file search
+
+## Features to be Added
+- Auto-correction for typed commands
+- Flexible command parsing (word order independent)
+- Smart file indexing
+- WhatsApp automation
+- Context memory
+- Natural language task execution
+- System controls (volume, brightness, screenshots)
 ## Features
 
 - Open desktop applications
