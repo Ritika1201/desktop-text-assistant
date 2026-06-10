@@ -70,6 +70,9 @@ search python programming
 youtube machine learning
 google data science roadmap
 ```
+## Note
+Used AI as a development tool, but designed, modified, tested, and improved the project myself.
+
 ## Preview
 
 ![Desktop Assistant](assets/assistant_image.png)
